@@ -2,7 +2,7 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Job History
+## Experience - CONFLICT!
 
 ### GitHub Trainer
 
@@ -25,10 +25,6 @@ Developed and maintained various conference talks, online training, and in-perso
 
 ### Leadership
 
-<<<<<<< my-resume
-Manual Conflict 1
-=======
 Manual Conflict 2
->>>>>>> main
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
